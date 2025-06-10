@@ -12,7 +12,13 @@ https://ghgo.xyz/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.json
 
 - 软件下载
 - 🔰原版 影视仓 
-- [https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#](https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs&path=%2F%E5%AE%89%E5%8D%93%E5%93%A5%E5%BC%80%E5%8F%91%2F1%E5%BD%B1%E8%A7%86%E4%BB%93tv%E7%89%88)
+- UC网盘
+https://drive.uc.cn/s/b437317346a14
+百度网盘
+https://pan.baidu.com/s/11RcWwauUQiWt_Ids_zs5Qw?pwd=a6g7
+夸克网盘
+​ https://pan.quark.cn/s/61d324167c07#/list/share
+
 - 
 - 🔰官方原版 Tvbox (使用单仓优选接口)
 - https://ghgo.xyz/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/TVBox_q215613905_20231013-1626.apk
