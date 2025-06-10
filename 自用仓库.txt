@@ -6,7 +6,7 @@
             "name": "🚀自用优选线路🚀"
         },	      
  {
-            "url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json",
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
             "name": "🚀网盘线路"
         }, 	
         {
